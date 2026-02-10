@@ -11,6 +11,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=cinty18&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=cinty18&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cinty18&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=cinty18&limit=5&theme=dark&combine_all_yearly_contributions=true)
